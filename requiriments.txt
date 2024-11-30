@@ -1,0 +1,5 @@
+pyautogui
+streamlit
+undetected_chromedriver
+pandas
+pathlib
